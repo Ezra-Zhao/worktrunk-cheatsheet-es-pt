@@ -1,5 +1,7 @@
 # worktrunk 速查表 | worktrunk Cheatsheet | Guía rápida de worktrunk
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Worktrunk：专为并行 AI agent 工作流设计的 Git worktree 管理 CLI。原生 git 建一个 worktree 要把分支名敲三遍、路径全靠手拼，它把 worktree 变成和分支一样顺手——按分支名寻址、路径按模板自动算。一个 agent 一个工位，谁也别踩谁的改动。想同时养 5 到 10 个 Claude Code / Codex，先把这一页看完。
 
 - 上游项目：[max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)（2026-11-05 实测 11,399 ★ / 430 forks / 153 releases，MIT OR Apache-2.0；根目录只有英文 README，文档站在 worktrunk.dev）
